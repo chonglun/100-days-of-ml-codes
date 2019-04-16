@@ -1,2 +1,2 @@
-# 100-days-of-ml-codes
+# 2nd-ML100Days
 第二屆機器學習 百日馬拉松
