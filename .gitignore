@@ -104,3 +104,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 homework/submission.csv
+homework/midterm-exam.csv
